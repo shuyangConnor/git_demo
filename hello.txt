@@ -22,3 +22,4 @@ hello atguigu! hello git! hot-fix test
 Branch test
 Branch test 4
 Mac Branch
+Rename Test
